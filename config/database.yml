@@ -1,0 +1,20 @@
+development:
+  adapter: mysql
+  database: songs_development
+  username: songuser
+  password: bnghty67
+  host: sql.slowplanet.net
+
+test:
+  adapter: mysql
+  database: songs_test
+  username: songuser
+  password: bnghty67
+  host: sql.slowplanet.net
+
+production:
+  adapter: mysql
+  database: songs_production
+  username: songuser
+  password: bnghty67
+  host: sql.slowplanet.net
