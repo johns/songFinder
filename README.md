@@ -1,4 +1,4 @@
 songFinder
 ==========
 
-Songfinder experimental app
+Songfinder experimental app -- interface with headphones db

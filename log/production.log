@@ -1,0 +1,4 @@
+Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+Migrating to CreateSongs (20120805171836)
+Migrating to AddPathToSongs (20120805185935)

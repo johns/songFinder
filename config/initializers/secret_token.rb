@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-SongFinder::Application.config.secret_token = '9a0a5cdf171ae47e232fcfeebae3bb85a8db87709174e8f712d25499574f9ba87a04937f61101c1c51d8cdb90aafdd1b5b2589f0c762e64a426d394a51c6bccc'
+SongFinder::Application.config.secret_token = 'e51b43516acd766ad01d4f40eb0cb9fd61606f1b836ffbb86a07cecff028c6175a3cce4a9f926888145a672c67625f74938b43d1eefec3e96ee0267743ca75cd'

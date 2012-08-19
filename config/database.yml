@@ -1,20 +1,24 @@
+# SQLite version 3.x
+#   gem install sqlite3
+#
+#   Ensure the SQLite 3 gem is defined in your Gemfile
+#   gem 'sqlite3'
 development:
-  adapter: mysql
-  database: songs_development
-  username: songuser
-  password: bnghty67
-  host: sql.slowplanet.net
-
+    adapter: mysql
+    database: songs_development
+    username: musicman
+    password: bnghty67
+    host: sql.slowplanet.net
 test:
-  adapter: mysql
-  database: songs_test
-  username: songuser
-  password: bnghty67
-  host: sql.slowplanet.net
-
+    adapter: mysql
+    database: songs_test
+    username: musicman
+    password: bnghty67
+    host: sql.slowplanet.net
 production:
-  adapter: mysql
-  database: songs_production
-  username: songuser
-  password: bnghty67
-  host: sql.slowplanet.net
+    adapter: mysql
+    database: songs_production
+    username: musicman
+    password: bnghty67
+    host: sql.slowplanet.net
+       
